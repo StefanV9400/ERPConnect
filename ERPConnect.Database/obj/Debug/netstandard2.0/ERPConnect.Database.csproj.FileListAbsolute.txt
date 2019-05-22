@@ -1,0 +1,9 @@
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/bin/Debug/netstandard2.0/ERPConnect.Database.deps.json
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/bin/Debug/netstandard2.0/ERPConnect.Database.dll
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/bin/Debug/netstandard2.0/ERPConnect.Database.pdb
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.csprojAssemblyReference.cache
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.csproj.CoreCompileInputs.cache
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.AssemblyInfoInputs.cache
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.AssemblyInfo.cs
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.dll
+/Users/stefanvasilev/Desktop/Project/ERPConnect/ERPConnect.Database/obj/Debug/netstandard2.0/ERPConnect.Database.pdb
